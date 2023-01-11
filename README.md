@@ -16,6 +16,7 @@ This project is to design the tables to hold the data from the CSV files, import
 ### Data Modeling
 The ERD 
 
+![ERD](https://user-images.githubusercontent.com/116041459/211707870-5c11f8ad-16ed-410f-bc89-80793d45683b.png)
 
 ### Data Engineering
 
